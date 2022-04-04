@@ -4,7 +4,7 @@
     
     - ng new image-crop-app 
 
-  -Once you create a new angular application and enter it into the project, you have to install and add the image cropper plugin into the angular app. Install bootstrap library for implementing image crop and uploading in angular- app. So, you can install the packages by executing the following commands on the terminal. 
+  -- Once you create a new angular application and enter it into the project, you have to install and add the image cropper plugin into the angular app. Install bootstrap library for implementing image crop and uploading in angular- app. So, you can install the packages by executing the following commands on the terminal. 
 
     - npm install bootstrap 
     - npm install ngx-image-cropper 
